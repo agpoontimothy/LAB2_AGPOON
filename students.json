@@ -1,0 +1,29 @@
+{
+    "students": [
+        {
+            "student_id": "2024105146",
+            "name": "Timothy Agpoon",
+            "course": "BS CpE"
+        },
+        {
+            "student_id": "2024123456",
+            "name": "Cholo Mendoza",
+            "course": "BS CpE"
+        },
+        {
+            "student_id": "2023201234",
+            "name": "Rigil Delos Reyes",
+            "course": "BS CpE"
+        },
+        {
+            "student_id": "2024134764",
+            "name": "Jericho Matondo",
+            "course": "BS CpE"
+        },
+        {
+            "student_id": "2024103432",
+            "name": "Lei San Juan",
+            "course": "BS CpE"
+        }
+    ]
+}
